@@ -2,7 +2,7 @@
 
 # Ironhack Data Analytics Labs
 
-Hola, soy Pablo.
+Hola, soy Pablo. ¿Que tal?
 
 ## Getting Started
 
