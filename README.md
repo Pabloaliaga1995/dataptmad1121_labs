@@ -2,7 +2,7 @@
 
 # Ironhack Data Analytics Labs
 
-Hola, soy Pablo. ¿Que tal?.
+Hola, soy Pablo Aliaga. ¿Que tal?.
 Un Saludo.
 
 ## Getting Started
