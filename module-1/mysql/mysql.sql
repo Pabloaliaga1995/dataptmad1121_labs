@@ -90,4 +90,4 @@ SELECT * FROM Cars  LEFT JOIN Invoices ON Cars.ID = Invoices.Car WHERE Invoices.
 
 SELECT * FROM Cars  RIGHT JOIN Invoices ON Cars.ID = Invoices.Car WHERE Invoices.Car IS NULL
 
-SELECT * FROM Cars  FULL JOIN Invoices ON Cars.ID = Invoices.Car WHERE Invoices.Car IS NULL OR Invoices.Car IS NULL
+SELECT * FROM Cars  FULL JOIN Invoices ON Cars.ID = Invoices.Car WHERE Invoices.Car IS NULL
